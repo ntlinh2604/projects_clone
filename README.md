@@ -1,2 +1,2 @@
 # projects_clone
-All clone projects to code myself
+All clone projects which I am coding by myself
